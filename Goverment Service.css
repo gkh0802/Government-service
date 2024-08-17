@@ -1,0 +1,83 @@
+.title{
+    background-image: url(https://t4.ftcdn.net/jpg/02/10/45/95/240_F_210459536_XmLDEcKq2DpeNLVmheuWeu9NM9aGKnih.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 1500px;
+}
+
+.menubutton{
+     border:none;
+     background-color: lightblue;
+     color: azure;
+     padding: 10px;
+     width: 120px;
+     text-align: center;
+     cursor: pointer;
+}  
+
+.menuselection{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    display: block;
+    background-color: grey;
+    width: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    box-shadow: 0px 8px 16px 0px rgba(red, green, blue, alpha);
+
+}
+
+.menubutton:hover{
+  transition: 0.5s;
+  background-color: blue;
+}
+
+.menu{
+    bottom: 200px;
+}
+.menuselection:hover{
+    display: block;
+}
+
+.a1{
+    background-image: url(https://marketplace.canva.com/EAFCytpuJ08/1/0/1600w/canva-green-wateroclor-leaf-linktree-background-0Mp0WYk6_8E.jpg);
+    background-size: 1000px;
+    width: 500px;
+    padding: 100px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative;
+    bottom: 413.5px;
+}
+
+.content{
+    background-color: violet;
+}
+
+.button1{
+    background-color: cornflowerblue;
+    border-radius: 5px;
+    cursor: pointer;
+    position: relative;
+    padding: 5px;
+    box-shadow: 20px;
+    
+}
+
+.button1:hover{
+    transition: 0.5s;
+    background-color: blue;
+}
+
+.button1:active{
+    transition: 0.5s;
+    background-color: deepskyblue;
+}
+
+.iframe1{
+    left: 710px;
+    position: relative;
+
+}
+
